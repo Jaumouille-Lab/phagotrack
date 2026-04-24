@@ -1,1 +1,1 @@
-<img width="1280" height="640" alt="bitmap" src="https://github.com/user-attachments/assets/13a60410-4ca7-48d0-af43-de3ee30e2e49" />
+<img width="256" height="192" alt="PhagoTrack_onWhite_Shaded (1)" src="https://github.com/user-attachments/assets/9277d8b4-e64f-401e-937b-0c8902c1c826" />
